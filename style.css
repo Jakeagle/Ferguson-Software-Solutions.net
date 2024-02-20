@@ -91,6 +91,22 @@ body {
   bottom: 12rem;
 }
 
+.prodBtn {
+  margin-top: 25rem;
+  margin-left: 5rem;
+}
+.learnBtn {
+  margin-top: 2rem;
+  margin-right: 3rem;
+}
+.btnR {
+  width: 50rem;
+}
+
+.btnA {
+  background-color: #6d6d6d;
+}
+
 .btnS {
   margin: 6rem;
 }
@@ -164,4 +180,25 @@ body {
 
 .teamSlider {
   margin-bottom: 2rem;
+}
+
+.productText {
+  text-align: center;
+  font-weight: 800;
+  font-size: 3rem;
+  color: #6d6d6d;
+}
+
+.prodPic {
+  width: 80%;
+  margin-top: 4rem;
+  margin-left: 8rem;
+}
+
+.prodHead {
+  font-size: 3rem;
+}
+
+.aboutProd {
+  margin-top: 4rem;
 }
